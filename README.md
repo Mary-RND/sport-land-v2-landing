@@ -77,7 +77,7 @@ python -m http.server 8000
 ├─ script.js                  # интерактив и отправка формы
 ├─ images/                    # фото (hero, привычки, кейсы, команда, шаги)
 ├─ screenshots/
-│  ├─ desktop-full.png        # полная версия (desktop, 1440)
+│  ├─ desktop-full.jpg        # полная версия (desktop, 1440)
 │  ├─ desktop-hero.png        # секция hero
 │  ├─ desktop-form.png        # форма регистрации
 │  └─ mobile-hero.png         # мобильный hero (390)
