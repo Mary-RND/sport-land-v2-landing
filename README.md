@@ -5,9 +5,9 @@
 бежево-коричневой палитре с editorial-типографикой (Oswald + Playfair Display
 + Commissioner) и чистым HTML/CSS/JS без фреймворков и сборщиков.
 
-![Лендинг, полная версия (desktop)](screenshots/desktop-full.png)
+![Лендинг, полная версия (desktop)](screenshots/desktop-full.jpg)
 
-**Live demo:** [yellow-pine-add3.mar-petrushina.workers.dev](https://yellow-pine-add3.mar-petrushina.workers.dev/) — деплой на Cloudflare Workers.
+**Live demo:** [mary-rnd.github.io/sport-land-v2-landing](https://mary-rnd.github.io/sport-land-v2-landing/) — деплой на GitHub Pages.
 
 ---
 
